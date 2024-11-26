@@ -1,7 +1,7 @@
-# Digiboard Project
+# Task 4 : Real-Time Collaborative Whiteboard
 
 ## Overview
-The Digiboard Project aims to create a digital whiteboard application that allows users to collaborate in real-time, share ideas, and brainstorm effectively.
+The Whiteboard Project aims to create a digital whiteboard application that allows users to collaborate in real-time, share ideas, and brainstorm effectively.
 
 ## Features
 - Real-time collaboration
@@ -15,17 +15,17 @@ The Digiboard Project aims to create a digital whiteboard application that allow
 
 ## Technologies
 - Frontend: React, Next.js
-- Backend: Node.js, Express
+- Backend: Node.js with WebSocket (Socket.IO), Express
 - Database: MongoDB
 - Authentication: JWT, OAuth
-- Deployment: Vercel, GitHub Pages
+
 
 ## Setup Instructions
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/SURESHUDAVALAPATI/digiboard.git
-    cd digiboard
+    https://github.com/kashish281/Whiteboard.git
+    cd whiteboard
     ```
 
 2. **Install dependencies:**
@@ -72,26 +72,8 @@ The Digiboard Project aims to create a digital whiteboard application that allow
 - `predeploy`: Runs the build script before deploying.
 - `deploy`: Deploys the project to GitHub Pages.
 
-## Contributing
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-Thanks to everyone who has contributed to this project!
 
 ---
 
-# digiboard
-
-Whiteboard application for digital collaboration.
-
-## Youtube Link :
-https://youtu.be/B5rq-SzB5Cw
-
----
-
-# Whiteboard
-This project provides a digital whiteboard platform to facilitate real-time collaborative drawing, brainstorming, and sharing.
 
